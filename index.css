@@ -1,0 +1,14 @@
+body{
+    background-color: white;
+}
+
+.imagems{
+    display:flex;
+    justify-content: center;
+}
+
+img{
+    height: 600px;
+    margin: 20px;
+    display: inline-block;
+}
